@@ -1,0 +1,21 @@
+name: employees_catalogue
+description: Devskiller Flutter Employees Catalogue
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  mockito: ^4.1.1
+
+dev_dependencies:
+  test: ^1.15.2
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
